@@ -1,6 +1,6 @@
 Law School Finder
 
-Welcome to Law School Finder!!
+Welcome to Law School Finder!
 
 The Law School Finder is a web application built with Flask that helps users find law schools based on various filters like location, LSAT, GPA. Users can be matched to a school based on a test, search for schools, and view detailed information about each school.
 
